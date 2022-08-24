@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Waterm3lon
 - 👀 I’m interested in ... Software engineering and business.
-- 🌱 I’m currently learning ... Python, Javascript, Html, CSS, etc.
+- 🌱 I’m currently learning ... Python, Javascript, Html, etc.
 - 💞️ I’m looking to collaborate on ... Websites and applications
 - 📫 How to reach me ... Via Email 
 
